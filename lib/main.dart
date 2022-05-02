@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Contact App',
+      title: 'Google Duo',
       theme: ThemeData(
         primaryColor: Colors.white,
         appBarTheme: const AppBarTheme(
